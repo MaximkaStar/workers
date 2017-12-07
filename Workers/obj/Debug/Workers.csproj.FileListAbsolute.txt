@@ -1,0 +1,8 @@
+c:\users\попченком\documents\visual studio 2017\Projects\Workers\Workers\bin\Debug\Workers.exe.config
+c:\users\попченком\documents\visual studio 2017\Projects\Workers\Workers\bin\Debug\Workers.exe
+c:\users\попченком\documents\visual studio 2017\Projects\Workers\Workers\bin\Debug\Workers.pdb
+c:\users\попченком\documents\visual studio 2017\Projects\Workers\Workers\bin\Debug\WorkersLibary.dll
+c:\users\попченком\documents\visual studio 2017\Projects\Workers\Workers\bin\Debug\WorkersLibary.pdb
+c:\users\попченком\documents\visual studio 2017\Projects\Workers\Workers\obj\Debug\Workers.csprojResolveAssemblyReference.cache
+c:\users\попченком\documents\visual studio 2017\Projects\Workers\Workers\obj\Debug\Workers.exe
+c:\users\попченком\documents\visual studio 2017\Projects\Workers\Workers\obj\Debug\Workers.pdb

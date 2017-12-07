@@ -1,0 +1,5 @@
+c:\Users\попченком\documents\visual studio 2017\Projects\Workers\WorkersLibary\bin\Debug\WorkersLibary.dll
+c:\Users\попченком\documents\visual studio 2017\Projects\Workers\WorkersLibary\bin\Debug\WorkersLibary.pdb
+c:\Users\попченком\documents\visual studio 2017\Projects\Workers\WorkersLibary\obj\Debug\WorkersLibary.csprojResolveAssemblyReference.cache
+c:\Users\попченком\documents\visual studio 2017\Projects\Workers\WorkersLibary\obj\Debug\WorkersLibary.dll
+c:\Users\попченком\documents\visual studio 2017\Projects\Workers\WorkersLibary\obj\Debug\WorkersLibary.pdb
